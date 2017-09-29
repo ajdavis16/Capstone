@@ -1,0 +1,304 @@
+{
+	"cards": [
+		{
+			"id": 1, 
+			"eng":"is",
+			"ger":"ist"
+		},
+		{
+			"id": 2, 
+			"eng":"you",
+			"ger":"du"
+		},
+		{
+			"id": 3, 
+			"eng":"it",
+			"ger":"es"
+		},
+		{
+			"id": 4, 
+			"eng":"not",
+			"ger":"nicht"
+		},
+		{
+			"id": 5, 
+			"eng":"I",
+			"ger":"ich"
+		},
+		{
+			"id": 6, 
+			"eng":"you",
+			"ger":"Sie"
+		},
+		{
+			"id": 7, 
+			"eng":"and",
+			"ger":"und"
+		},
+		{
+			"id": 8, 
+			"eng":"we",
+			"ger":"wir"
+		},
+		{
+			"id": 9, 
+			"eng":"me",
+			"ger":"mir"
+		},
+		{
+			"id": 10, 
+			"eng":"with",
+			"ger":"mit"
+		},
+		{
+			"id": 11, 
+			"eng":"yes",
+			"ger":"ja"
+		},
+		{
+			"id": 12, 
+			"eng":"how",
+			"ger":"wie"
+		},
+		{
+			"id": 13, 
+			"eng":"onto",
+			"ger":"auf"
+		},
+		{
+			"id": 14, 
+			"eng":"me",
+			"ger":"mich"
+		},
+		{
+			"id": 15, 
+			"eng":"here",
+			"ger":"hier"
+		},
+		{
+			"id": 16, 
+			"eng":"if",
+			"ger":"wenn"
+		},
+		{
+			"id": 17, 
+			"eng":"to have",
+			"ger":"hat"
+		},
+		{
+			"id": 18, 
+			"eng":"from",
+			"ger":"von"
+		},
+		{
+			"id": 19, 
+			"eng":"yourself",
+			"ger":"dich"
+		},
+		{
+			"id": 20, 
+			"eng":"was",
+			"ger":"war"
+		},
+		{
+			"id": 21, 
+			"eng":"to have",
+			"ger":"haben"
+		},
+		{
+			"id": 22, 
+			"eng":"for",
+			"ger":"fur"
+		},
+		{
+			"id": 23, 
+			"eng":"no",
+			"ger":"nein"
+		},
+		{
+			"id": 24, 
+			"eng":"I am",
+			"ger":"bin"
+		},
+		{
+			"id": 25, 
+			"eng":"still",
+			"ger":"noch"
+		},
+		{
+			"id": 26, 
+			"eng":"us",
+			"ger":"uns"
+		},
+		{
+			"id": 27, 
+			"eng":"oneself",
+			"ger":"sich"
+		},
+		{
+			"id": 28, 
+			"eng":"only",
+			"ger":"nur"
+		},
+		{
+			"id": 29, 
+			"eng":"also",
+			"ger":"auch"
+		},
+		{
+			"id": 30, 
+			"eng":"already",
+			"ger":"schon"
+		},
+		{
+			"id": 31, 
+			"eng":"than",
+			"ger":"als"
+		},
+		{
+			"id": 32, 
+			"eng":"him",
+			"ger":"ihn"
+		},
+		{
+			"id": 33, 
+			"eng":"to be",
+			"ger":"sein"
+		},
+		{
+			"id": 34, 
+			"eng": "out",
+			"ger": "aus"
+		},
+		{
+			"id": 35, 
+			"eng": "again",
+			"ger": "aber"
+		},
+		{
+			"id": 36, 
+			"eng": "mine",
+			"ger": "meine"
+		},
+		{
+			"id": 37, 
+			"eng": "becomes",
+			"ger": "wird"
+		},
+		{
+			"id": 38, 
+			"eng": "but",
+			"ger": "doch"
+		},
+		{
+			"id": 39, 
+			"eng": "none",
+			"ger": "keine"
+		},
+		{
+			"id": 40, 
+			"eng": "good",
+			"ger": "gut"
+		},
+		{
+			"id": 41, 
+			"eng": "or",
+			"ger": "oder"
+		},
+		{
+			"id": 42, 
+			"eng": "now",
+			"ger": "jetzt"
+		},
+		{
+			"id": 43, 
+			"eng": "to get",
+			"ger": "werden"
+		},
+		{
+			"id": 44, 
+			"eng": "always",
+			"ger": "immer"
+		},
+		{
+			"id": 45, 
+			"eng": "why",
+			"ger": "warum"
+		},
+		{
+			"id": 46, 
+			"eng": "at",
+			"ger": "bei"
+		},
+		{
+			"id": 47, 
+			"eng": "nothing",
+			"ger": "nichts"
+		},
+		{
+			"id": 48, 
+			"eng": "please",
+			"ger": "bitte"
+		},
+		{
+			"id": 49, 
+			"eng": "again",
+			"ger": "wieder"
+		},
+		{
+			"id": 50, 
+			"eng": "machen",
+			"ger": "to make"
+		},
+		{
+			"id": 51, 
+			"eng": "this",
+			"ger": "diese"
+		},
+		{
+			"id": 52, 
+			"eng": "before",
+			"ger": "vor"
+		},
+		{
+			"id": 53, 
+			"eng": "to be able to",
+			"ger": "konnen"
+		},
+		{
+			"id": 54, 
+			"eng": "to have",
+			"ger": "hab"
+		},
+		{
+			"id": 55, 
+			"eng": "to go",
+			"ger": "gehen"
+		},
+		{
+			"id": 56, 
+			"eng": "to see",
+			"ger": "sehen"
+		},
+		{
+			"id": 57, 
+			"eng": "to do",
+			"ger": "tun"
+		},
+		{
+			"id": 58, 
+			"eng": "yourselves",
+			"ger": "euch"
+		},
+		{
+			"id": 59, 
+			"eng": "real",
+			"ger": "wirklich"
+		},
+		{
+			"id": 60, 
+			"eng": "to say",
+			"ger": "sagen"
+		}
+	]
+}
